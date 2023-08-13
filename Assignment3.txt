@@ -26,8 +26,6 @@ Answer - 2
 To define a media query in CSS, you use the @media rule followed by the specific conditions or characteristics you want to target.
 Here's the basic syntax for defining a media query:
 
-css
-Copy code
 @media mediaType and (mediaFeature) {
   /* CSS rules to apply */
 }
